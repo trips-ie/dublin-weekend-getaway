@@ -1,0 +1,116 @@
+{
+  "destinations": [
+    {
+      "name": "Galway",
+      "features": [
+        "outdoors",
+        "pubs",
+        "dancing",
+        "history",
+        "food",
+        "art and culture",
+        "nightlife"
+      ]
+    },
+    {
+      "name": "Killarney",
+      "features": [
+        "outdoors",
+        "history",
+        "food",
+        "relaxation",
+        "adventure"
+      ]
+    },
+    {
+      "name": "Kilkenny",
+      "features": [
+        "history",
+        "food",
+        "art and culture",
+        "shopping",
+        "nightlife",
+        "family-friendly"
+      ]
+    },
+    {
+      "name": "Westport",
+      "features": [
+        "outdoors",
+        "history",
+        "food",
+        "art and culture",
+        "relaxation",
+        "adventure",
+        "family-friendly"
+      ]
+    },
+    {
+      "name": "Dingle",
+      "features": [
+        "outdoors",
+        "history",
+        "food",
+        "art and culture",
+        "relaxation",
+        "adventure"
+      ]
+    },
+    {
+      "name": "Cork",
+      "features": [
+        "outdoors",
+        "pubs",
+        "dancing",
+        "history",
+        "food",
+        "art and culture",
+        "shopping",
+        "nightlife",
+        "family-friendly"
+      ]
+    },
+    {
+      "name": "Dublin",
+      "features": [
+        "outdoors",
+        "pubs",
+        "dancing",
+        "history",
+        "food",
+        "art and culture",
+        "shopping",
+        "nightlife",
+        "family-friendly"
+      ]
+    },
+    {
+      "name": "Cliffs of Moher",
+      "features": [
+        "outdoors",
+        "history",
+        "adventure"
+      ]
+    },
+    {
+      "name": "Ring of Kerry",
+      "features": [
+        "outdoors",
+        "history",
+        "food",
+        "relaxation",
+        "adventure"
+      ]
+    },
+    {
+      "name": "Waterford",
+      "features": [
+        "history",
+        "food",
+        "art and culture",
+        "shopping",
+        "family-friendly"
+      ]
+    }
+  ]
+}
